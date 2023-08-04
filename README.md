@@ -1,7 +1,7 @@
 ## Hey! 👋
-🔭 I’m currently working on the All Inclusive ML Hackathon
-📫 How to reach me: marco.paredes2001@gmail.com
-⚡ Hobbies: Running (follow me on Strava!), bodybuilding, and reading
+- 🔭 I’m currently working on the All Inclusive ML Hackathon
+- 📫 How to reach me: marco.paredes2001@gmail.com
+- ⚡ Hobbies: Running (follow me on Strava!), bodybuilding, and reading
 
 <div align="center">
   <a href="[https://www.instagram.com/marc.pared/](https://www.instagram.com/marc.pared/)">
