@@ -17,11 +17,13 @@
   </a>
 </div>
 
+<!--
 <div align="center"> 
     <a href="https://open.spotify.com/user/momoparedes">   
        <img src="https://novatorem-black-beta.vercel.app/api/spotify.py"  align="center" alt="Spotify Playing" width="500"  />
     </a>
 </div>
+--->
 
 [Twitter]: https://twitter.com/marco_pared
 [Instagram]: https://www.instagram.com/marc.pared
