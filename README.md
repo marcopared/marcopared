@@ -1,6 +1,6 @@
 ## Hi, I'm Marco
 ### Software Engineer with full-stack experience and interests in the tech space
-- 🔭 I’m currently working on the All Inclusive ML Hackathon
+- 🔭 I’m currently working for a large bank. Looking for more hackathon opportunities!
 - 📫 How to reach me: marco.paredes2001@gmail.com
 - ⚡ Hobbies: Running (follow me on Strava), gym, and reading
 
